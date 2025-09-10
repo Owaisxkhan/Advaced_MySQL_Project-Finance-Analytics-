@@ -81,7 +81,7 @@ It focuses on **sales analysis, revenue tracking, market performance, and foreca
 ---
 
 ## 📌 Author  
-👤 **Your Name**  
+👤 **Owais Khan**  
 📧 Email: trgxowais2gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/owais-khan-008929265/
 
