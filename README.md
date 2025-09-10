@@ -33,8 +33,8 @@ It focuses on **sales analysis, revenue tracking, market performance, and foreca
 
 ## 📂 Project Structure  
 ```
-├── AllQueries.sql        # SQL scripts with solutions for Q1–Q13
-├── SqlQuestions.rtf      # Problem statements
+├── Analysis.sql        # SQL scripts with solutions for Q1–Q13
+├── SqlQuestions.pdf      # Problem statements
 ├── README.md             # Project documentation
 ```
 
